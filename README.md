@@ -8,7 +8,7 @@
   When I want to take a break from coding, I enjoy playing video games, watching movies, and listening to headbanging music.
   Also when I have an idea in my mind, I love to write it down and try to begin something about it.</p>
 
-For interested people here is a resume of my work : <a href="https://grizfreak.github.io/">Github Page</a>.
+For interested people here is a resume of my work : <a href="https://grizfreak.github.io/">my portfolio</a>.
 
 ### 📫 How to reach me
   📧 Email: **aaubert@et.esiea.fr**<br>

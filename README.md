@@ -10,9 +10,6 @@
 
 For interested people, here is a resume of my work : <a href="https://grizfreak.github.io/">my portfolio</a>.
 
-### 📫 How to reach me
-  📧 Email: **aaubert@et.esiea.fr**<br>
-
 ### 🛠️ Languages
 
 <p>
